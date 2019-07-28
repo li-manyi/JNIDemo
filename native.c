@@ -1,4 +1,3 @@
-
 #include <jni.h>  /* /usr/lib/jvm/java-1.7.0-openjdk-amd64/include/ */
 #include <stdio.h>
 #include <stdlib.h>
